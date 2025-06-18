@@ -32,4 +32,4 @@ PredictED-Rwanda addresses the challenge of identifying students at academic ris
 - `summative-final.ipynb`: The main notebook with code and results.
 - `student-mat.csv`: The dataset.
 - `saved_models/`: Directory for saved model files (e.g., nn_instance4.keras).
-- `video_presentation.mp4`: The video presentation file.
+- `video_presentation.mp4`: https://youtu.be/5j7lrC6OJis
